@@ -1,6 +1,6 @@
 # JavaProgram
 Java programing projects
-Avec des poids et des objets à peser prédéfinis,  le programme permet de déterminer le nombre minimal de poids nécessaire ainsi que tous les combinaison des poids possible pour peser chaque objets.
+Avec des poids et des objets à peser prédéfinis,  le programme Balance.java permet de déterminer le nombre minimal de poids nécessaire ainsi que tous les combinaison des poids possible pour peser chaque objets.
 Le code petitCompilateur.java est un programme qui convertie des expressions d'un langage source en langage du code objet. Le programme en langage source contiendra une suite d’instructions séparées par un symbole de point-virgule. Les variables sont dénotées par les identificateurs à une lettre majuscule A, B,. .., Z. Chaque expression du programme code objet est écrite sur une ligne et elle doit être suivie par ses arguments séparés par des virgules. Les arguments sont les variables du langage source et les registres de votre ordinateur, représentés par les symboles R0, R1, . . ., R9.
 Example :
 C = D*C^E*F+D+(C+E); N= C+D^C
